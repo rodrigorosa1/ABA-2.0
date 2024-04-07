@@ -1,0 +1,47 @@
+## Description
+
+ABA system repository.
+
+## Installation
+
+```bash
+$ yarn install
+```
+
+## Running the app
+
+```bash
+# development
+$ yarn run start
+
+# watch mode
+$ yarn run start:dev
+
+# production mode
+$ yarn run start:prod
+```
+
+## Test
+
+```bash
+# unit tests
+$ yarn run test
+
+# e2e tests
+$ yarn run test:e2e
+
+# test coverage
+$ yarn run test:cov
+```
+
+## Support
+
+
+## Stay in touch
+
+- Author - [Rodrigo Rosa](https://github.com/rodrigorosa1)
+- Twitter - [@rodrigo_rosam](https://twitter.com/rodrigo_rosam)
+
+## License
+
+[MIT licensed](LICENSE).
